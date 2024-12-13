@@ -1,0 +1,4 @@
+C:\Users\ivonk\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivonk\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\ivonk\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\ivonk\source\repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
